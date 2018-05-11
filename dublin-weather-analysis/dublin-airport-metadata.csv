@@ -1,0 +1,19 @@
+Station Name: Dublin_Airport
+Station Height: 71 M 
+Latitude:53.428  ,Longitude: -6.241
+rain: -	 Precipitation Amount (mm)	  
+temp: -	 Air Temperature (C)	
+wetb: -	 Wet Bulb Temperature (C)
+dewpt: -  Dew Point Temperature (C)
+vappr: -  Vapour Pressure (hPa)		                 
+rhum: -  Relative Hymidity (%) 
+msl: -   Mean Sea Level Pressure (hPa)
+wdspd: -  Mean Wind Speed (knot)
+wddir: -  Predominant Wind Direction (degree)
+ww:  -  Synop code for Present Weather
+w:  -   Synop code for Past Weather
+sun:  - Sunshine duration (hours)
+vis:  -  Visibility (m)
+clht:  -  Cloud height - if none value is 999 (100's ft)
+clamt:  -  Cloud amount
+i: - 	 Indicator
